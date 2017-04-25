@@ -13,5 +13,4 @@ public class EnvelopeDeProdutos {
 	public List<Produto> getProdutos() {
 		return produtos;
 	}
-	
 }
